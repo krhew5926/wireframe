@@ -1,0 +1,60 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Through My Lens</title>
+<!-- TemplateEndEditable -->
+<link href="../assets/styles.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="https://use.typekit.net/ses1avr.css">
+<link rel="stylesheet" href="https://use.typekit.net/ses1avr.css">
+<link rel="stylesheet" href="https://use.typekit.net/ses1avr.css">
+<!-- TemplateBeginEditable name="head" -->
+	
+<style type="text/css">
+	
+</style>
+
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<div id="container">
+  <header></header>
+  <nav>
+	<ul>
+		<li><a href="about.html">About</a></li>
+		<li><a href="blog.html">Blog</a></li>
+		<li><a href="gallery.html">Gallery</a></li>
+		<li><a href="contact.html">Contact</a></li>
+	</ul>
+  </nav>
+  <!--Begin Floated Elements-->
+  <aside><h3>I'm a boy, a student, a basketball player, and a gamer. I also love working out.</h3>
+  <h3>Join me as I look at life through everything I've done!</h3>
+  <h3>by Kaden Rhew</h3>
+  </aside>
+  <!-- TemplateBeginEditable name="main-content" -->
+  <main>
+    <h1>Image gallery</h1>
+    <div class="column">
+		<img src="../images/placeholder.jpg" width="250" height="250" alt=""/>
+		<img src="../images/placeholder.jpg" width="250" height="250" alt=""/>
+		<img src="../images/placeholder.jpg" width="250" height="250" alt=""/>
+	</div>
+	<div class="column">
+		<img src="../images/placeholder.jpg" width="250" height="250" alt=""/>
+		<img src="../images/placeholder.jpg" width="250" height="250" alt=""/>
+		<img src="../images/placeholder.jpg" width="250" height="250" alt=""/>
+	</div>
+	<div class="column">
+		<img src="../images/placeholder.jpg" width="250" height="250" alt=""/>
+		<img src="../images/placeholder.jpg" width="250" height="250" alt=""/>
+	  <img src="../images/placeholder.jpg" width="250" height="250" alt=""/>
+	</div>
+  </main>
+  <!-- TemplateEndEditable -->  <!--End Floated Elements-->
+  <footer></footer>
+</div>
+</body>
+</html>
